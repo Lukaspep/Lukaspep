@@ -29,6 +29,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="aws" **alt="aws" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/> </tr>
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/> </tr>
+        <img src="https://www.django-rest-framework.org/img/logo.png" title="DjangoREST" **alt="DjangoREST" width="40" height="40"/> </tr>
         
      
   </table>
