@@ -8,7 +8,7 @@
 
 ### About me:
 - 🌱 **I’m currently learning about Serverless using AWS Lambda for Python Developers**
-- 👯 **I’m looking to collaborate on Web Development**
+- 👯 **I’m looking to collaborate on Web Development or DevOps Jr**
 - 💬 Ask me about **Python, Django, Django REST Framework, Aws Lambda or how to Dockerize your Django Application**
 
 ---
