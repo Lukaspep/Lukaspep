@@ -12,11 +12,10 @@
  
  🔭 I’m currently working on **recipe-api-app**
  
- 🌱 I’m currently learning **Jenkins, Terraform, DevOps**
+ 🌱 I’m currently learning **DevOps**
 
 💬 Ask me about **Django, REST Framework or DevOps**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
