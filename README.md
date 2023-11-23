@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a chat app**
+ 🔭 I’m currently working on **recipe-api-app**
  
  🌱 I’m currently learning **Jenkins, Terraform, DevOps**
 
