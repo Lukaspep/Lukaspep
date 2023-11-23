@@ -53,7 +53,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com?user=Lukaspep&theme=react" alt="GitHub Streak"/>
+  <img width=390 src="https://streak-stats.demolab.com?user=Lukaspep&theme=react&border_radius=10" alt="GitHub Streak"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Lukaspep&show_icons=true&theme=react" alt="GitHub stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukaspep&theme=react" alt="Top Langs" />
