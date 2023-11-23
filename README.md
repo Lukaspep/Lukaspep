@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtzOGlkd3NqN3dhbHh6anFnc2NnMTUxdnVsbHVtMmQ2M2hkb2l3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
+    <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="200" />
     <h1 align="center">Hi👋, I'm Lucas Bernasconi </h1>
     <h3 align="center">A passionate Web fullstack developer from Argentina. </h3>
 </div>
