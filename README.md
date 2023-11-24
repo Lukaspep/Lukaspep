@@ -34,7 +34,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=linux,aws,dynamodb,jenkins,kubernetes,vscode,github,figma,docker,git,mysql" />
-    <img src="https://skillicons.dev/icons?i=postgresql,py,postman,django,atom" /><br>
+    <img src="https://skillicons.dev/icons?i=postgresql,py,postman,django,atom,grafana,gitlab,prometheus,githubactions,nginx" /><br>
 </div>
 
 <br/>
