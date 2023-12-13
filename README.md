@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **recipe-app-api**
+ 🔭 I’m currently working on **AWS and DevOps projects**
  
- 🌱 I’m currently learning **DevOps**
+ 🌱 I’m currently learning **DevOps and AWS solutions architect**
 
 💬 Ask me about **Django, REST Framework or DevOps**
 
