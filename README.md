@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on **AWS and DevOps projects**
  
- 🌱 I’m currently learning **DevOps and AWS solutions architect**
+ 🌱 I’m currently learning **AWS solutions architect**
 
-💬 Ask me about **Django, REST Framework or DevOps**
+💬 Ask me about **Python or DevOps**
 
 
  </div>
