@@ -33,8 +33,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=linux,aws,dynamodb,jenkins,kubernetes,vscode,github,figma,docker,git,mysql" />
-    <img src="https://skillicons.dev/icons?i=postgresql,py,postman,django,atom,grafana,gitlab,prometheus,githubactions,nginx" /><br>
+    <img src="https://skillicons.dev/icons?i=linux,aws,dynamodb,jenkins,kubernetes,docker,git" />
+    <img src="https://skillicons.dev/icons?i=postgresql,py,grafana,prometheus,githubactions,ansible" /><br>
 </div>
 
 <br/>
